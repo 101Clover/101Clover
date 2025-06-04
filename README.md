@@ -5,8 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=101Clover&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=FF00FF&bg_color=0d1117" alt="Gabrieli Coutinho Rosa github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=101Clover&layout=compact&hide_border=true&title_color=8B008B&text_color=FF00FF&bg_color=0d1117" />
-</div>
+  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=101Clover&bg_color=000000&color=8B008B&line=8B008B&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
